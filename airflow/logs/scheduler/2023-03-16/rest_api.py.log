@@ -1,0 +1,572 @@
+[2023-03-16T18:57:26.035+0000] {processor.py:153} INFO - Started process (PID=34) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:26.036+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T18:57:26.037+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:26.037+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:26.116+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:26.172+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:26.172+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:57:26.208+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:26.207+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T18:57:26.237+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.206 seconds
+[2023-03-16T18:57:57.228+0000] {processor.py:153} INFO - Started process (PID=72) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:57.235+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T18:57:57.286+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:57.286+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:57.788+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:57:57.933+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:57.933+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:57:57.973+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:57:57.973+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T18:57:57.993+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.814 seconds
+[2023-03-16T18:58:28.434+0000] {processor.py:153} INFO - Started process (PID=98) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T18:58:28.451+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T18:58:28.458+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:58:28.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:58:28.913+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:58:29.147+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:58:29.146+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:58:29.269+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:58:29.268+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T18:58:29.340+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.955 seconds
+[2023-03-16T18:59:00.502+0000] {processor.py:153} INFO - Started process (PID=123) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:00.513+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T18:59:00.515+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:00.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:00.636+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:00.817+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:00.817+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:59:00.888+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:00.888+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T18:59:00.908+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.444 seconds
+[2023-03-16T18:59:31.959+0000] {processor.py:153} INFO - Started process (PID=150) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:31.972+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T18:59:31.977+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:31.975+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:32.211+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T18:59:32.703+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:32.702+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:59:32.953+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:32.949+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T18:59:33.587+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py:639 RemovedInAirflow3Warning: DAG.full_filepath is deprecated in favour of fileloc
+[2023-03-16T18:59:33.647+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:33.592+0000] {dagbag.py:639} ERROR - Failed to write serialized DAG: /opt/airflow/dags/rest_api.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 631, in _serialize_dag_capturing_errors
+    session=session,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 72, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/serialized_dag.py", line 149, in write_dag
+    (timezone.utcnow() - timedelta(seconds=min_update_interval)) < cls.last_updated,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2893, in scalar
+    ret = self.one()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2870, in one
+    return self._iter().one()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2919, in _iter
+    execution_options={"_sa_orm_load_options": self.load_options},
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1553, in _connection_for_bind
+    engine, execution_options
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 721, in _connection_for_bind
+    self._assert_active()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 608, in _assert_active
+    code="7s2a",
+sqlalchemy.exc.PendingRollbackError: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "serialized_dag_pkey"
+DETAIL:  Key (dag_id)=(rest_api) already exists.
+
+[SQL: INSERT INTO serialized_dag (dag_id, fileloc, fileloc_hash, data, data_compressed, last_updated, dag_hash, processor_subdir) VALUES (%(dag_id)s, %(fileloc)s, %(fileloc_hash)s, %(data)s, %(data_compressed)s, %(last_updated)s, %(dag_hash)s, %(processor_subdir)s)]
+[parameters: {'dag_id': 'rest_api', 'fileloc': '/opt/airflow/dags/rest_api.py', 'fileloc_hash': 21015592477026235, 'data': '{"__version": 1, "dag": {"fileloc": "/opt/airflow/dags/rest_api.py", "dataset_triggers": [], "timezone": "UTC", "_task_group": {"_group_id": null, "p ... (2091 characters truncated) ... empty": false, "op_args": [], "op_kwargs": {"x": "{{ task_instance.xcom_pull(task_ids=\\"get_posts\\") }}"}}], "dag_dependencies": [], "params": {}}}', 'data_compressed': None, 'last_updated': datetime.datetime(2023, 3, 16, 18, 59, 32, 360217, tzinfo=Timezone('UTC')), 'dag_hash': 'a357b9c2278432014f35602c310b6cf4', 'processor_subdir': None}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj) (Background on this error at: https://sqlalche.me/e/14/7s2a)
+[2023-03-16T18:59:33.652+0000] {logging_mixin.py:137} INFO - [2023-03-16T18:59:33.651+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T18:59:33.666+0000] {processor.py:178} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 174, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 158, in _handle_dag_file_processing
+    callback_requests=callback_requests,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 75, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 768, in process_file
+    dagbag.sync_to_db(processor_subdir=self._dag_directory, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 72, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 645, in sync_to_db
+    for attempt in run_with_db_retries(logger=self.log):
+  File "/home/airflow/.local/lib/python3.7/site-packages/tenacity/__init__.py", line 384, in __iter__
+    do = self.iter(retry_state=retry_state)
+  File "/home/airflow/.local/lib/python3.7/site-packages/tenacity/__init__.py", line 351, in iter
+    return fut.result()
+  File "/usr/local/lib/python3.7/concurrent/futures/_base.py", line 428, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.7/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 660, in sync_to_db
+    self.dags.values(), processor_subdir=processor_subdir, session=session
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 72, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dag.py", line 2701, in bulk_write_to_db
+    orm_dags: list[DagModel] = with_row_locks(query, of=DagModel, session=session).all()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2919, in _iter
+    execution_options={"_sa_orm_load_options": self.load_options},
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1553, in _connection_for_bind
+    engine, execution_options
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 721, in _connection_for_bind
+    self._assert_active()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 608, in _assert_active
+    code="7s2a",
+sqlalchemy.exc.PendingRollbackError: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "serialized_dag_pkey"
+DETAIL:  Key (dag_id)=(rest_api) already exists.
+
+[SQL: INSERT INTO serialized_dag (dag_id, fileloc, fileloc_hash, data, data_compressed, last_updated, dag_hash, processor_subdir) VALUES (%(dag_id)s, %(fileloc)s, %(fileloc_hash)s, %(data)s, %(data_compressed)s, %(last_updated)s, %(dag_hash)s, %(processor_subdir)s)]
+[parameters: {'dag_id': 'rest_api', 'fileloc': '/opt/airflow/dags/rest_api.py', 'fileloc_hash': 21015592477026235, 'data': '{"__version": 1, "dag": {"fileloc": "/opt/airflow/dags/rest_api.py", "dataset_triggers": [], "timezone": "UTC", "_task_group": {"_group_id": null, "p ... (2091 characters truncated) ... empty": false, "op_args": [], "op_kwargs": {"x": "{{ task_instance.xcom_pull(task_ids=\\"get_posts\\") }}"}}], "dag_dependencies": [], "params": {}}}', 'data_compressed': None, 'last_updated': datetime.datetime(2023, 3, 16, 18, 59, 32, 360217, tzinfo=Timezone('UTC')), 'dag_hash': 'a357b9c2278432014f35602c310b6cf4', 'processor_subdir': None}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj) (Background on this error at: https://sqlalche.me/e/14/7s2a)
+[2023-03-16T19:00:04.602+0000] {processor.py:153} INFO - Started process (PID=175) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:04.615+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:00:04.630+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:04.629+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:04.826+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:05.114+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:05.114+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:00:05.173+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:05.173+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:00:05.241+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.661 seconds
+[2023-03-16T19:00:36.075+0000] {processor.py:153} INFO - Started process (PID=198) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:36.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:00:36.081+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:36.081+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:36.223+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:00:36.448+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:36.448+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:00:36.568+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:00:36.567+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:00:36.622+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.556 seconds
+[2023-03-16T19:01:07.172+0000] {processor.py:153} INFO - Started process (PID=213) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:07.174+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:01:07.175+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:07.175+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:07.290+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:07.483+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:07.483+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:01:07.525+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:07.524+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:01:07.630+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.462 seconds
+[2023-03-16T19:01:38.542+0000] {processor.py:153} INFO - Started process (PID=240) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:38.547+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:01:38.551+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:38.551+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:38.746+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:01:39.016+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:39.014+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:01:39.117+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:01:39.117+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:01:39.222+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.694 seconds
+[2023-03-16T19:02:10.271+0000] {processor.py:153} INFO - Started process (PID=277) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:10.287+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:02:10.290+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:10.289+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:10.426+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:10.591+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:10.591+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:02:10.628+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:10.628+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:02:10.643+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.408 seconds
+[2023-03-16T19:02:41.346+0000] {processor.py:153} INFO - Started process (PID=304) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:41.349+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:02:41.350+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:41.350+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:41.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:02:41.426+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:41.426+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:02:41.452+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:02:41.452+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:02:41.465+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.124 seconds
+[2023-03-16T19:03:12.032+0000] {processor.py:153} INFO - Started process (PID=341) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:12.035+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:03:12.037+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:12.036+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:12.113+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:12.216+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:12.216+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:03:12.239+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:12.239+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:03:12.259+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.233 seconds
+[2023-03-16T19:03:43.042+0000] {processor.py:153} INFO - Started process (PID=369) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:43.046+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:03:43.048+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:43.048+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:43.093+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:03:43.152+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:43.152+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:03:43.187+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:03:43.187+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:03:43.215+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.188 seconds
+[2023-03-16T19:04:13.873+0000] {processor.py:153} INFO - Started process (PID=408) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:13.875+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:04:13.877+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:13.877+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:13.936+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:14.059+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:14.059+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:04:14.087+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:14.087+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:04:14.103+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.237 seconds
+[2023-03-16T19:04:44.367+0000] {processor.py:153} INFO - Started process (PID=435) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:44.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:04:44.381+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:44.381+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:44.546+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:04:44.664+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:44.664+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:04:44.716+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:04:44.715+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:04:44.767+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.415 seconds
+[2023-03-16T19:05:15.866+0000] {processor.py:153} INFO - Started process (PID=473) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:15.896+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:05:15.905+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:15.905+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:16.065+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:16.400+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:16.400+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:05:16.547+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:16.546+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:05:16.597+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.850 seconds
+[2023-03-16T19:05:47.184+0000] {processor.py:153} INFO - Started process (PID=499) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:47.191+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:05:47.193+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:47.193+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:47.273+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:05:47.355+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:47.355+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:05:47.407+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:05:47.407+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:05:47.426+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.261 seconds
+[2023-03-16T19:06:18.307+0000] {processor.py:153} INFO - Started process (PID=525) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:18.311+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:06:18.312+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:18.312+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:18.378+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:18.480+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:18.479+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:06:18.511+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:18.510+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:06:18.521+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.223 seconds
+[2023-03-16T19:06:49.188+0000] {processor.py:153} INFO - Started process (PID=561) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:49.191+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:06:49.194+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:49.194+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:49.265+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:06:49.319+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:49.319+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:06:49.355+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:06:49.354+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:06:49.386+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.210 seconds
+[2023-03-16T19:07:19.594+0000] {processor.py:153} INFO - Started process (PID=585) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:19.598+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:07:19.600+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:19.600+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:19.674+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:19.782+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:19.782+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:07:19.818+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:19.817+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:07:19.831+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.247 seconds
+[2023-03-16T19:07:50.479+0000] {processor.py:153} INFO - Started process (PID=616) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:50.483+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:07:50.484+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:50.484+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:50.556+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:07:50.606+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:50.605+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:07:50.684+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:07:50.684+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:07:50.709+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.237 seconds
+[2023-03-16T19:08:21.662+0000] {processor.py:153} INFO - Started process (PID=647) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:21.665+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:08:21.667+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:21.667+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:21.732+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:21.895+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:21.895+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:08:21.922+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:21.922+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:08:21.936+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.283 seconds
+[2023-03-16T19:08:52.685+0000] {processor.py:153} INFO - Started process (PID=674) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:52.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:08:52.689+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:52.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:52.732+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:08:52.768+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:52.768+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:08:52.804+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:08:52.804+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:08:52.835+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.154 seconds
+[2023-03-16T19:09:23.638+0000] {processor.py:153} INFO - Started process (PID=712) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:23.644+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:09:23.650+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:23.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:23.705+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:23.836+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:23.836+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:09:23.889+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:23.889+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:09:23.903+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.273 seconds
+[2023-03-16T19:09:54.678+0000] {processor.py:153} INFO - Started process (PID=737) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:54.688+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:09:54.691+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:54.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:54.757+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:09:54.817+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:54.817+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:09:54.849+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:09:54.848+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:09:54.865+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.203 seconds
+[2023-03-16T19:10:25.728+0000] {processor.py:153} INFO - Started process (PID=774) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:25.732+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:10:25.734+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:25.734+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:25.831+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:25.946+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:25.946+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:10:25.973+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:25.973+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:10:25.990+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.275 seconds
+[2023-03-16T19:10:56.995+0000] {processor.py:153} INFO - Started process (PID=800) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:57.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:10:57.014+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:57.014+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:57.126+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:10:57.210+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:57.210+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:10:57.265+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:10:57.265+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:10:57.282+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.307 seconds
+[2023-03-16T19:11:28.007+0000] {processor.py:153} INFO - Started process (PID=838) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:28.020+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:11:28.025+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:28.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:28.121+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:28.252+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:28.252+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:11:28.273+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:28.273+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:11:28.288+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.304 seconds
+[2023-03-16T19:11:58.923+0000] {processor.py:153} INFO - Started process (PID=864) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:58.925+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:11:58.927+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:58.927+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:58.987+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:11:59.091+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:59.090+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:11:59.175+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:11:59.175+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:11:59.314+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.397 seconds
+[2023-03-16T19:12:30.549+0000] {processor.py:153} INFO - Started process (PID=901) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:12:30.550+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:12:30.552+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:12:30.552+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:12:30.611+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:12:30.701+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:12:30.701+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:12:30.739+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:12:30.739+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:12:30.753+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.221 seconds
+[2023-03-16T19:13:01.718+0000] {processor.py:153} INFO - Started process (PID=927) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:01.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:13:01.724+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:01.724+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:01.787+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:01.864+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:01.863+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:13:01.927+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:01.927+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:13:01.946+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.244 seconds
+[2023-03-16T19:13:32.692+0000] {processor.py:153} INFO - Started process (PID=952) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:32.696+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:13:32.698+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:32.698+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:32.772+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:13:32.924+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:32.924+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:13:32.960+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:13:32.960+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:13:32.975+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.292 seconds
+[2023-03-16T19:14:03.895+0000] {processor.py:153} INFO - Started process (PID=989) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:03.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:14:03.898+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:03.898+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:03.940+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:03.973+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:03.973+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:14:04.014+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:04.013+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:14:04.042+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.157 seconds
+[2023-03-16T19:14:34.616+0000] {processor.py:153} INFO - Started process (PID=1015) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:34.620+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:14:34.622+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:34.622+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:34.694+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:14:34.815+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:34.814+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:14:34.847+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:14:34.847+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:14:34.862+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.255 seconds
+[2023-03-16T19:15:05.907+0000] {processor.py:153} INFO - Started process (PID=1053) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:05.914+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:15:05.917+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:05.917+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:06.005+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:06.049+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:06.049+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:15:06.073+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:06.073+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:15:06.112+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.216 seconds
+[2023-03-16T19:15:36.950+0000] {processor.py:153} INFO - Started process (PID=1079) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:36.952+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:15:36.953+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:36.953+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:36.984+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:15:37.042+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:37.042+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:15:37.065+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:15:37.065+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:15:37.079+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.133 seconds
+[2023-03-16T19:16:07.654+0000] {processor.py:153} INFO - Started process (PID=1117) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:07.659+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:16:07.663+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:07.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:07.837+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:07.969+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:07.969+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:16:08.046+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:08.046+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:16:08.075+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.443 seconds
+[2023-03-16T19:16:38.757+0000] {processor.py:153} INFO - Started process (PID=1143) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:38.760+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:16:38.761+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:38.761+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:38.848+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:16:38.939+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:38.939+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:16:38.964+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:16:38.964+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:16:38.981+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.232 seconds
+[2023-03-16T19:17:09.585+0000] {processor.py:153} INFO - Started process (PID=1182) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:09.590+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:17:09.594+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:09.593+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:09.774+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:09.857+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:09.856+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:17:09.912+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:09.911+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:17:09.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.372 seconds
+[2023-03-16T19:17:40.531+0000] {processor.py:153} INFO - Started process (PID=1208) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:40.538+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:17:40.541+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:40.540+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:40.594+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:17:40.687+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:40.687+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:17:40.707+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:17:40.707+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:17:40.718+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.203 seconds
+[2023-03-16T19:18:11.287+0000] {processor.py:153} INFO - Started process (PID=1246) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:11.291+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:18:11.296+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:11.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:11.362+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:11.479+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:11.478+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:18:11.578+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:11.577+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:18:11.643+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.372 seconds
+[2023-03-16T19:18:42.171+0000] {processor.py:153} INFO - Started process (PID=1272) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:42.178+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:18:42.180+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:42.179+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:42.225+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:18:42.327+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:42.327+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:18:42.352+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:18:42.352+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:18:42.363+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.210 seconds
+[2023-03-16T19:19:12.877+0000] {processor.py:153} INFO - Started process (PID=1307) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:12.894+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:19:12.897+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:12.897+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:12.961+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:13.041+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:13.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:19:13.120+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:13.120+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:19:13.147+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.289 seconds
+[2023-03-16T19:19:43.827+0000] {processor.py:153} INFO - Started process (PID=1336) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:43.830+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:19:43.831+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:43.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:43.893+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:19:44.048+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:44.048+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:19:44.248+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:19:44.246+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:19:44.295+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.474 seconds
+[2023-03-16T19:20:14.956+0000] {processor.py:153} INFO - Started process (PID=1374) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:14.959+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:20:14.962+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:14.961+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:15.048+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:15.116+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:15.116+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:20:15.193+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:15.193+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:20:15.207+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.269 seconds
+[2023-03-16T19:20:45.779+0000] {processor.py:153} INFO - Started process (PID=1399) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:45.790+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:20:45.796+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:45.796+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:45.856+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:20:46.044+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:46.044+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:20:46.110+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:20:46.109+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:20:46.138+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.369 seconds
+[2023-03-16T19:21:16.871+0000] {processor.py:153} INFO - Started process (PID=1437) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:16.874+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:21:16.881+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:16.881+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:16.988+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:17.102+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:17.102+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:21:17.175+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:17.175+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:21:17.219+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.354 seconds
+[2023-03-16T19:21:47.741+0000] {processor.py:153} INFO - Started process (PID=1462) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:47.743+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:21:47.745+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:47.744+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:47.789+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:21:47.888+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:47.888+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:21:47.912+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:21:47.911+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:21:47.932+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.195 seconds
+[2023-03-16T19:22:18.762+0000] {processor.py:153} INFO - Started process (PID=1496) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:18.766+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:22:18.769+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:18.769+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:18.893+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:18.952+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:18.952+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:22:19.000+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:19.000+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:22:19.019+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.262 seconds
+[2023-03-16T19:22:49.993+0000] {processor.py:153} INFO - Started process (PID=1524) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:49.996+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:22:49.997+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:49.997+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:50.036+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:22:50.116+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:50.115+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:22:50.140+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:22:50.140+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:22:50.158+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.175 seconds
+[2023-03-16T19:23:21.116+0000] {processor.py:153} INFO - Started process (PID=1550) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:21.118+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:23:21.119+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:21.119+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:21.178+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:21.242+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:21.242+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:23:21.275+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:21.275+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:23:21.293+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.185 seconds
+[2023-03-16T19:23:52.080+0000] {processor.py:153} INFO - Started process (PID=1589) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:52.084+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:23:52.092+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:52.092+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:52.207+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:23:52.434+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:52.433+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:23:52.495+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:23:52.494+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:23:52.550+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.500 seconds
+[2023-03-16T19:24:23.244+0000] {processor.py:153} INFO - Started process (PID=1615) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:23.248+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:24:23.251+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:23.251+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:23.314+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:23.369+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:23.369+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:24:23.410+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:23.409+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:24:23.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.209 seconds
+[2023-03-16T19:24:54.213+0000] {processor.py:153} INFO - Started process (PID=1641) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:54.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:24:54.224+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:54.223+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:54.317+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:24:54.456+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:54.455+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:24:54.507+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:24:54.506+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:24:54.534+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.331 seconds
+[2023-03-16T19:25:25.328+0000] {processor.py:153} INFO - Started process (PID=1679) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:25.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:25:25.340+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:25.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:25.388+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:25.432+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:25.432+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:25:25.475+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:25.475+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:25:25.489+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.168 seconds
+[2023-03-16T19:25:55.965+0000] {processor.py:153} INFO - Started process (PID=1704) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:55.971+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:25:55.974+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:55.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:56.036+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:25:56.129+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:56.128+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:25:56.148+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:25:56.148+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:25:56.160+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.201 seconds
+[2023-03-16T19:26:26.805+0000] {processor.py:153} INFO - Started process (PID=1742) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:26.807+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:26:26.809+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:26.808+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:26.876+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:26.925+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:26.925+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:26:26.975+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:26.975+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:26:26.995+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.196 seconds
+[2023-03-16T19:26:57.607+0000] {processor.py:153} INFO - Started process (PID=1773) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:57.611+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:26:57.613+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:57.612+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:57.672+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:26:57.777+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:57.777+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:26:57.802+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:26:57.802+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:26:57.822+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.222 seconds
+[2023-03-16T19:27:28.406+0000] {processor.py:153} INFO - Started process (PID=1805) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:28.409+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:27:28.410+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:28.410+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:28.471+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:28.522+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:28.522+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:27:28.554+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:28.554+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:27:28.568+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.171 seconds
+[2023-03-16T19:27:59.392+0000] {processor.py:153} INFO - Started process (PID=1831) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:59.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:27:59.397+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:59.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:59.466+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:27:59.567+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:59.567+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:27:59.595+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:27:59.595+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:27:59.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.224 seconds
+[2023-03-16T19:28:30.383+0000] {processor.py:153} INFO - Started process (PID=1870) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:28:30.385+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:28:30.385+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:28:30.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:28:30.428+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:28:30.485+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:28:30.484+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:28:30.516+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:28:30.516+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:28:30.543+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.163 seconds
+[2023-03-16T19:29:01.248+0000] {processor.py:153} INFO - Started process (PID=1896) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:01.252+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:29:01.254+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:01.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:01.301+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:01.396+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:01.396+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:29:01.421+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:01.421+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:29:01.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.199 seconds
+[2023-03-16T19:29:32.486+0000] {processor.py:153} INFO - Started process (PID=1921) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:32.489+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:29:32.494+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:32.493+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:32.560+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:29:32.633+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:32.633+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:29:32.678+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:29:32.678+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:29:32.700+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.224 seconds
+[2023-03-16T19:30:03.293+0000] {processor.py:153} INFO - Started process (PID=1948) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:03.299+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:30:03.302+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:03.302+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:03.384+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:03.474+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:03.474+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:30:03.498+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:03.498+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:30:03.515+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.234 seconds
+[2023-03-16T19:30:34.082+0000] {processor.py:153} INFO - Started process (PID=1985) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:34.086+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:30:34.088+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:34.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:34.145+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:30:34.200+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:34.199+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:30:34.228+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:30:34.228+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:30:34.242+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.169 seconds
+[2023-03-16T19:31:04.684+0000] {processor.py:153} INFO - Started process (PID=2010) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:04.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:31:04.694+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:04.693+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:04.736+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:04.790+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:04.790+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:31:04.812+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:04.812+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:31:04.824+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.156 seconds
+[2023-03-16T19:31:35.174+0000] {processor.py:153} INFO - Started process (PID=2046) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:35.177+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:31:35.178+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:35.178+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:35.214+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:31:35.262+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:35.262+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:31:35.302+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:31:35.301+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:31:35.318+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.152 seconds
+[2023-03-16T19:32:05.836+0000] {processor.py:153} INFO - Started process (PID=2072) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:05.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:32:05.841+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:05.841+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:05.890+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:05.946+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:05.946+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:32:05.973+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:05.973+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:32:05.987+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.157 seconds
+[2023-03-16T19:32:36.533+0000] {processor.py:153} INFO - Started process (PID=2111) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:36.537+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:32:36.539+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:36.539+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:36.607+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:32:36.640+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:36.640+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:32:36.667+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:32:36.667+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:32:36.680+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.161 seconds
+[2023-03-16T19:33:07.138+0000] {processor.py:153} INFO - Started process (PID=2137) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:07.142+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:33:07.145+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:07.145+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:07.268+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:07.332+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:07.332+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:33:07.432+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:07.432+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:33:07.483+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.366 seconds
+[2023-03-16T19:33:38.213+0000] {processor.py:153} INFO - Started process (PID=2175) to work on /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:38.215+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/rest_api.py for tasks to queue
+[2023-03-16T19:33:38.217+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:38.217+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:38.285+0000] {processor.py:753} INFO - DAG(s) dict_keys(['rest_api']) retrieved from /opt/airflow/dags/rest_api.py
+[2023-03-16T19:33:38.338+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:38.337+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-16T19:33:38.405+0000] {logging_mixin.py:137} INFO - [2023-03-16T19:33:38.405+0000] {dag.py:3441} INFO - Setting next_dagrun for rest_api to 2023-03-15T00:00:00+00:00, run_after=2023-03-16T00:00:00+00:00
+[2023-03-16T19:33:38.451+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/rest_api.py took 0.250 seconds

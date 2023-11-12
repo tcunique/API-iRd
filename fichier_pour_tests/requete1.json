@@ -1,0 +1,7 @@
+{
+    "taches" :{
+      "nom_tache" : "tache2",
+      "chemin_fichier" : "/opt/airflow/dags/fichier_pour_tests/fichier_python1.py",
+      "args" : ""
+    }
+    }
